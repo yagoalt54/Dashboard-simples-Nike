@@ -14,11 +14,11 @@ O dashboard foi desenhado para responder **somente** as perguntas abaixo:
 
 ## 🗂️ Arquivos
 
-- **`Dashboard_Nike_Excel_CORRIGIDO.xlsx`** — arquivo final do dashboard.  
+- **`Dashboard_Nike.xlsx`** — arquivo final do dashboard.  
 ---
 ## 🧱 Estrutura do Workbook (abas)
 
-O arquivo **`Dashboard_Nike_Excel.xlsx`** possui as seguintes abas:
+O arquivo **`Dashboard_Nike.xlsx`** possui as seguintes abas:
 
 1. **`Dashboard`** *(única worksheet do dashboard)*  
    - KPIs (“big numbers”) e 3 gráficos principais.
