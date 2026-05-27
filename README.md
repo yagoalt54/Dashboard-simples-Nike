@@ -72,7 +72,7 @@ O projeto inclui uma paleta “Nike-inspired”, disponível na aba **`Assets`**
 
 ## ▶️ Instruções de uso (usuário final)
 
-1. Abra **`Dashboard_Nike_Excel.xlsx`**. 
+1. Abra **`Dashboard_Nike.xlsx`**. 
 2. Vá na aba **`Dashboard`**.
 3. Use os filtros no topo:
    - **Loja** (célula `B4`)
